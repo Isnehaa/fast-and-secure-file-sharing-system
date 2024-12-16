@@ -1,0 +1,3 @@
+npx create-react-app file-sharing-app
+cd file-sharing-app
+npm install axios
